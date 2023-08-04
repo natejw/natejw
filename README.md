@@ -4,6 +4,8 @@
 
 🌍  I'm based in Victoria, Australia* 🚀  I'm currently working on [My Website](http://natewombwell.dee.al)* 🧠  I'm learning Robotics
 
+![Static Badge](https://img.shields.io/badge/github_pages_build-passing-brightgreen?style=flat-square&logo=github&logoColor=white)
+
 ### Skills
 
 
@@ -12,12 +14,22 @@
 
 ### Socials<p align="left"> <a href="https://discord.com/users/iamastar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/natewombwell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
-### Badges
+### Devices
+![iPad 8th Generation](https://img.shields.io/badge/iPad_8th_generation-black?style=flat-square&logo=apple&logoColor=white)
+![ASUS Tuf Dash F15](https://img.shields.io/badge/ASUS_Tuf_Dash_F15-blue?style=flat-square&logo=asus&logoColor=white)
+![Fitbit Versa 3](https://img.shields.io/badge/Fitbit_Versa_3-004c81?style=flat-square&logo=fitbit&logoColor=white)
+![Airpods Max](https://img.shields.io/badge/Airpods_Max-black?style=flat-square&logo=apple&logoColor=white)
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/natewombwell"><img src="https://github-readme-stats.vercel.app/api?username=natewombwell&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="natewombwell's GitHub stats" /></a>
+
+### Statistics
+
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/natewombwell/verbose" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=natewombwell&repo=verbose&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/natewombwell/natewombwell" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=natewombwell&repo=natewombwell&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<b>My Github Stats</b>
+
+<a href="http://www.github.com/natewombwell"><img src="https://github-readme-stats.vercel.app/api?username=natewombwell&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="natewombwell's GitHub stats" /></a>
+
