@@ -2,7 +2,11 @@
 #### Student & Front-End Developer
 ##### I've been learning code for over 5 years now. Found lots f things in end user hardware, front end & back end developing aswell! The coding community that I have met along the way is just amazing aswell. There is lots of amazing people out there, there are mostly the reason I got into coding into the first place.* 
 
-🌍  I'm based in Victoria, Australia* 🚀  I'm currently working on [My Website](http://natewombwell.dee.al)* 🧠  I'm learning Robotics
+🌍  I'm based in Victoria, Australia 
+
+🚀  I'm currently working on [My Website](http://natewombwell.dee.al)* 
+
+🧠  I'm learning Robotics
 
 ![Static Badge](https://img.shields.io/badge/github_pages_build-passing-brightgreen?style=flat-square&logo=github&logoColor=white)
 
