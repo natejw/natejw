@@ -1,6 +1,6 @@
 ## Hi 👋 My name is Nate Wombwell
 #### Student & Front-End Developer
-##### I've been learning code for over 5 years now. Found lots f things in end user hardware, front end & back end developing aswell! The coding community that I have met along the way is just amazing aswell. There is lots of amazing people out there, there are mostly the reason I got into coding into the first place.
+##### I've been learning code for over 5 years now. Found lots of things in end user hardware, front end & back end developing aswell! The coding community that I have met along the way is just amazing aswell. There is lots of amazing people out there, there are mostly the reason I got into coding into the first place.
 
 🌍  I'm based in Victoria, Australia 
 
