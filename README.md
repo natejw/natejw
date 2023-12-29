@@ -4,9 +4,9 @@
 
 🌍  I'm based in Victoria, Australia 
 
-🚀  I'm currently working on **[My Website](http://natewombwell.dee.al)**
+🚀  I'm currently working on **[Treno Rail Roblox Development](http://trenorail.xyz)**
 
-🧠  I'm learning Robotics
+🧠  I'm learning Python
 
 ![Static Badge](https://img.shields.io/badge/github_pages_build-passing-brightgreen?style=flat-square&logo=github&logoColor=white)
 
